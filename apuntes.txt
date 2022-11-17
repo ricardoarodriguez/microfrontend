@@ -1,0 +1,18 @@
+####  react ####
+1. Inicialmente se debe instalar la libreria haciendo uso de node js 
+ -> npm install -g create-react-app
+2. Luego se debe crear una aplicación de react 
+ -> create-react-app <nombre de aplicacion>
+3. debemos ir a la ruta de la nueva aplicacion creada por la libreria
+ -> cd <nombre de aplicacion>
+4. Para correr la aplicación de react se utiliza el comando npm start
+ -> npm start
+5. Instalar libreria para hacer peticiones 
+-> npm i axios
+6. Para instalar React Router 
+-> npm install react-router-dom@6
+
+npm install @mui/icons-material
+npm install @mui/material @emotion/react @emotion/styled --force
+npm install @material-ui/core
+npm config set legacy-peer-deps true
